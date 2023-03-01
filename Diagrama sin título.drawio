@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-28T19:08:28.994Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="E5kXAhe55YULcsf6oJ4f" version="20.8.22" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-01T15:21:41.005Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="WISFFiowRPR3yBL5Al8m" version="20.8.22" type="github" pages="2">
   <diagram name="Página-1" id="ur_Cc2yNUW0S00QuE0Pk">
     <mxGraphModel dx="1615" dy="2063" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -193,6 +193,26 @@
         </mxCell>
         <mxCell id="-sjkZfE7l676RwMNaRlf-47" value="React" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=hatch;strokeWidth=2;fontSize=20;fillColor=#e1d5e7;dashed=1;dashPattern=1 1;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="970" y="420" width="340" height="150" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="7v8Ec68pEWlQZVHa2Bkq" name="Página-2">
+    <mxGraphModel dx="1050" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="RBF2ww5l1MC5vclAjTyu-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontSize=16;" edge="1" parent="1" source="RBF2ww5l1MC5vclAjTyu-2" target="RBF2ww5l1MC5vclAjTyu-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RBF2ww5l1MC5vclAjTyu-2" value="Cash" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=hatch;strokeWidth=1;fontSize=16;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="140" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RBF2ww5l1MC5vclAjTyu-3" value="BioCash" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=hatch;strokeWidth=1;fontSize=16;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="440" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RBF2ww5l1MC5vclAjTyu-7" value="&lt;div style=&quot;text-align: left; font-size: 12px;&quot;&gt;&lt;ol&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial; font-size: 12px;&quot;&gt;Usuario&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial; font-size: 12px;&quot;&gt;MUID&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial; font-size: 12px;&quot;&gt;Canal(brand empresas / Marca)&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial; font-size: 12px;&quot;&gt;Seccion ID&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 12px;&quot;&gt;&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="246" y="130" width="230" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
