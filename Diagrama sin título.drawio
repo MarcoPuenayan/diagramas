@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-01T20:58:43.357Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="52QyDQhIAasxFewO8jA-" version="20.8.23" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-03-03T17:59:22.946Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="dhXLlrLxiS3f9-k8Ubtt" version="20.8.23" type="github" pages="3">
   <diagram name="Página-1" id="ur_Cc2yNUW0S00QuE0Pk">
     <mxGraphModel dx="2625" dy="2622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -235,22 +235,22 @@
           <mxGeometry x="30" y="-40" width="660" height="480" as="geometry" />
         </mxCell>
         <mxCell id="hsJNTyFwNWwEjZ003Fi3-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="140" width="150" height="240" as="geometry" />
+          <mxGeometry x="75" y="80" width="150" height="240" as="geometry" />
         </mxCell>
         <mxCell id="hsJNTyFwNWwEjZ003Fi3-4" value="Encriptar&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#000000;fontColor=#3214c8;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="100" y="60" width="120" height="30" as="geometry" />
+          <mxGeometry x="40" y="340" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hsJNTyFwNWwEjZ003Fi3-5" value="Desencriptar" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;fontColor=#1d22b9;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="240" y="60" width="120" height="30" as="geometry" />
+          <mxGeometry x="180" y="340" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hsJNTyFwNWwEjZ003Fi3-36" value="Ingrese datos a Encriptar o Desencriptar&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="80" y="100" width="160" height="30" as="geometry" />
+          <mxGeometry x="65" y="20" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hsJNTyFwNWwEjZ003Fi3-37" value="Datos Resultantes&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="349" y="100" width="160" height="30" as="geometry" />
+          <mxGeometry x="310" y="30" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hsJNTyFwNWwEjZ003Fi3-38" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
-          <mxGeometry x="330" y="150" width="300" height="200" as="geometry" />
+          <mxGeometry x="290" y="90" width="300" height="200" as="geometry" />
         </mxCell>
         <mxCell id="hsJNTyFwNWwEjZ003Fi3-39" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="hsJNTyFwNWwEjZ003Fi3-38">
           <mxGeometry width="300" height="40" as="geometry" />
