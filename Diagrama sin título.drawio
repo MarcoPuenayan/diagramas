@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-06T20:41:16.389Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="D-oJjpqULl4CK71vexIT" version="21.0.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-03-06T20:44:42.110Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="_MzdVSaWes6D5X2lJ3_m" version="21.0.2" type="github" pages="3">
   <diagram name="Página-1" id="ur_Cc2yNUW0S00QuE0Pk">
     <mxGraphModel dx="2333" dy="2460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -180,7 +180,7 @@
         <mxCell id="-sjkZfE7l676RwMNaRlf-45" value="Netmanager" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;strokeWidth=2;fontSize=16;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="1040" y="173" width="120" height="86" as="geometry" />
         </mxCell>
-        <mxCell id="-sjkZfE7l676RwMNaRlf-47" value="React" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=hatch;strokeWidth=2;fontSize=20;fillColor=#e1d5e7;dashed=1;dashPattern=1 1;strokeColor=#9673a6;" parent="1" vertex="1">
+        <mxCell id="-sjkZfE7l676RwMNaRlf-47" value="" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=hatch;strokeWidth=2;fontSize=20;fillColor=#dae8fc;dashed=1;dashPattern=1 1;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="1031" y="430" width="210" height="120" as="geometry" />
         </mxCell>
         <mxCell id="VKK7JoeOZZSzvZJptnQf-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=hatch;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
@@ -214,6 +214,12 @@
         </mxCell>
         <mxCell id="u2aIr5KgN3GwJ0005_01-5" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/databases/SQL_Server_Registries.svg;dashed=1;fillStyle=hatch;strokeWidth=2;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="370" y="585" width="35.1" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="u2aIr5KgN3GwJ0005_01-8" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="450" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="u2aIr5KgN3GwJ0005_01-9" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/seo-flat-6/128/22_Page_Quality-128.png" vertex="1" parent="1">
+          <mxGeometry x="1100" y="450" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
