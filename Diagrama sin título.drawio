@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-23T19:24:09.299Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="LA1Fn0196jwCg5z4FdEa" version="21.0.10" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-03-23T19:24:44.197Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="aEg2HXClTdSEy7Nu4Gv0" version="21.0.10" type="github" pages="4">
   <diagram name="Página-1" id="ur_Cc2yNUW0S00QuE0Pk">
     <mxGraphModel dx="1750" dy="2137" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -598,7 +598,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="IQToZH0AVpZ4BbZkb6yu-106" value="Standyn" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=hatch;fillColor=#fff2cc;strokeColor=#d6b656;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" vertex="1" parent="1">
-          <mxGeometry x="617.5" y="66.5" width="170" height="169" as="geometry" />
+          <mxGeometry x="704.5" y="66.5" width="170" height="169" as="geometry" />
         </mxCell>
         <mxCell id="IQToZH0AVpZ4BbZkb6yu-100" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fillStyle=hatch;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="62" width="280" height="120" as="geometry" />
@@ -661,13 +661,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IQToZH0AVpZ4BbZkb6yu-21" value="68" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/SQL_Server_Registries.svg;labelBorderColor=none;verticalAlign=top;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="650" y="344" width="68" height="62" as="geometry" />
+          <mxGeometry x="737" y="344" width="68" height="62" as="geometry" />
         </mxCell>
         <mxCell id="IQToZH0AVpZ4BbZkb6yu-22" value="102" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/SQL_Server_Registries.svg;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="950" y="310" width="68" height="62" as="geometry" />
+          <mxGeometry x="1037" y="310" width="68" height="62" as="geometry" />
         </mxCell>
         <mxCell id="IQToZH0AVpZ4BbZkb6yu-25" value="ETLs&lt;br&gt;Tiempo: 10s&lt;br&gt;Minimo:&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Maximo&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillStyle=hatch;strokeColor=#6c8ebf;fillColor=#dae8fc;dashed=1;dashPattern=8 8;strokeWidth=1;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="770" y="400" width="120" height="70" as="geometry" />
+          <mxGeometry x="857" y="400" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="IQToZH0AVpZ4BbZkb6yu-78" value="Cash" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;strokeColor=default;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="430" y="336" width="120" height="70" as="geometry" />
@@ -730,7 +730,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IQToZH0AVpZ4BbZkb6yu-94" value="Q38" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/SQL_Server_Registries.svg;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="950" y="120" width="68" height="62" as="geometry" />
+          <mxGeometry x="1037" y="120" width="68" height="62" as="geometry" />
         </mxCell>
         <mxCell id="IQToZH0AVpZ4BbZkb6yu-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IQToZH0AVpZ4BbZkb6yu-100" target="IQToZH0AVpZ4BbZkb6yu-78">
           <mxGeometry relative="1" as="geometry" />
@@ -745,7 +745,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IQToZH0AVpZ4BbZkb6yu-102" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Dev_Console.svg;" vertex="1" parent="1">
-          <mxGeometry x="653" y="125" width="65" height="52" as="geometry" />
+          <mxGeometry x="740" y="125" width="65" height="52" as="geometry" />
         </mxCell>
         <mxCell id="IQToZH0AVpZ4BbZkb6yu-108" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/OpenShift.svg;" vertex="1" parent="1">
           <mxGeometry x="260" y="75" width="38.04" height="35" as="geometry" />
