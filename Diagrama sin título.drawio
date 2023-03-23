@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-22T15:23:22.473Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="tpqyKpUtQ3ld6piTOa9W" version="21.0.10" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-03-23T19:07:52.758Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="OEBTFEH1H9wQa3aHPOm4" version="21.0.10" type="github" pages="4">
   <diagram name="Página-1" id="ur_Cc2yNUW0S00QuE0Pk">
     <mxGraphModel dx="1750" dy="2137" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -597,12 +597,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="nJidQUJABO2YVRoI_5Gc-2" value="Cash Management" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/SQL_Server_Registries.svg;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="490" y="142" width="68" height="62" as="geometry" />
-        </mxCell>
-        <mxCell id="PxmKatyI7HJ1L62Mxyk9-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=1;" edge="1" parent="1" source="PxmKatyI7HJ1L62Mxyk9-1" target="nJidQUJABO2YVRoI_5Gc-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="IQToZH0AVpZ4BbZkb6yu-20" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;fillColor=#f8cecc;strokeColor=#b85450;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="PxmKatyI7HJ1L62Mxyk9-1" target="IQToZH0AVpZ4BbZkb6yu-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -672,7 +666,7 @@
         <mxCell id="IQToZH0AVpZ4BbZkb6yu-25" value="ETLs&lt;br&gt;Tiempo: 10s&lt;br&gt;Minimo:&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Maximo&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillStyle=hatch;strokeColor=#6c8ebf;fillColor=#dae8fc;dashed=1;dashPattern=8 8;strokeWidth=1;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="740" y="250" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="IQToZH0AVpZ4BbZkb6yu-92" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IQToZH0AVpZ4BbZkb6yu-78" target="nJidQUJABO2YVRoI_5Gc-2">
+        <mxCell id="IQToZH0AVpZ4BbZkb6yu-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="IQToZH0AVpZ4BbZkb6yu-78" target="PxmKatyI7HJ1L62Mxyk9-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IQToZH0AVpZ4BbZkb6yu-78" value="Cash" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;strokeColor=default;fontSize=11;" vertex="1" parent="1">
