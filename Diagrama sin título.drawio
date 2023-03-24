@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-23T20:08:58.734Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="ipPWnPU4eXtK-N6zCfI1" version="21.0.10" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-03-24T15:53:49.430Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="eQTbI32jX0UdoMaBX9Aw" version="21.0.10" type="github" pages="5">
   <diagram name="Página-1" id="ur_Cc2yNUW0S00QuE0Pk">
     <mxGraphModel dx="1750" dy="2137" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -762,6 +762,19 @@
         <mxCell id="IQToZH0AVpZ4BbZkb6yu-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="IQToZH0AVpZ4BbZkb6yu-110" target="IQToZH0AVpZ4BbZkb6yu-100">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="VFUkVGyvZ2lubsL-RjK4" name="Página-5">
+    <mxGraphModel dx="1050" dy="625" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <UserObject label="https://developers.mews.com/is-entity-framework-hurting-your-database-performance/" link="https://developers.mews.com/is-entity-framework-hurting-your-database-performance/" id="zWs3qaSDpjoFXv1W2zs_-1">
+          <mxCell style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="60" width="490" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
