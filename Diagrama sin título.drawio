@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-04T22:37:20.673Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="nsmv3e_PbYLVG_nAGpoD" version="21.1.1" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-04-04T22:40:34.536Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="Oh0-LJ91x8Wr0_ZFtqPz" version="21.1.1" type="github" pages="7">
   <diagram name="Página-1" id="ur_Cc2yNUW0S00QuE0Pk">
-    <mxGraphModel dx="2993" dy="1451" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3393" dy="1451" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -181,10 +181,10 @@
           <mxGeometry x="15" y="35" width="14.285274725274727" height="12.857142857142856" as="geometry" />
         </mxCell>
         <mxCell id="NhqeChD_XDufD7Qu8ooM-1" value="Análisis con gobierno de datos&lt;br&gt;Arquitectura de datos / Analítica&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="311" y="790" width="270" height="140" as="geometry" />
+          <mxGeometry x="-690" y="660" width="270" height="140" as="geometry" />
         </mxCell>
         <mxCell id="NhqeChD_XDufD7Qu8ooM-3" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-360" y="670" width="260" height="120" as="geometry" />
+          <mxGeometry x="-680" y="850" width="260" height="120" as="geometry" />
         </mxCell>
         <mxCell id="VKK7JoeOZZSzvZJptnQf-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=hatch;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="NhqeChD_XDufD7Qu8ooM-3" vertex="1">
           <mxGeometry width="260" height="120" as="geometry" />
@@ -201,17 +201,17 @@
         <mxCell id="u2aIr5KgN3GwJ0005_01-5" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/databases/SQL_Server_Registries.svg;dashed=1;fillStyle=hatch;strokeWidth=2;fillColor=default;" parent="NhqeChD_XDufD7Qu8ooM-3" vertex="1">
           <mxGeometry x="120" y="75" width="35.1" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="NhqeChD_XDufD7Qu8ooM-4" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-360" y="890" width="210" height="120" as="geometry" />
+        <mxCell id="NhqeChD_XDufD7Qu8ooM-4" value="" style="group;fontSize=10;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-600" y="190" width="210" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="-sjkZfE7l676RwMNaRlf-47" value="Nuevo Spartan" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=hatch;strokeWidth=2;fontSize=20;fillColor=#dae8fc;dashed=1;dashPattern=1 1;strokeColor=#6c8ebf;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" parent="NhqeChD_XDufD7Qu8ooM-4" vertex="1">
+        <mxCell id="-sjkZfE7l676RwMNaRlf-47" value="Nuevas paginas con react" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=hatch;strokeWidth=2;fontSize=14;fillColor=#dae8fc;dashed=1;dashPattern=1 1;strokeColor=#6c8ebf;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" parent="NhqeChD_XDufD7Qu8ooM-4" vertex="1">
           <mxGeometry width="210" height="120" as="geometry" />
         </mxCell>
         <mxCell id="u2aIr5KgN3GwJ0005_01-8" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png;" parent="NhqeChD_XDufD7Qu8ooM-4" vertex="1">
           <mxGeometry x="19" y="20" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="u2aIr5KgN3GwJ0005_01-9" value="" style="shape=image;html=1;verticalAlign=bottom;verticalLabelPosition=top;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/seo-flat-6/128/22_Page_Quality-128.png;labelPosition=center;align=center;" parent="NhqeChD_XDufD7Qu8ooM-4" vertex="1">
-          <mxGeometry x="69" y="20" width="80" height="80" as="geometry" />
+          <mxGeometry x="90" y="10" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="NhqeChD_XDufD7Qu8ooM-5" value="Cluster de ETLs" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/databases/SQL_Server_Registries.svg;dashed=1;dashPattern=12 12;fillStyle=auto;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="340" y="446" width="96.52" height="88" as="geometry" />
