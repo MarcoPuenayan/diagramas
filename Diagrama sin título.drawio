@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-03T14:16:02.467Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="6f9kBj2uzrFrm5NjUavd" version="21.1.1" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-04-04T15:15:42.353Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="qKzvtQaAFTAKBdqNdc5w" version="21.1.1" type="github" pages="7">
   <diagram name="Página-1" id="ur_Cc2yNUW0S00QuE0Pk">
     <mxGraphModel dx="1615" dy="1362" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -813,6 +813,26 @@
         </mxCell>
         <mxCell id="LUfIWYqM8LGciHCZ3K5J-10" value="Creación de Pipeline para publicación&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="290" y="305" width="220" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="GWSUIitntjUW0w1QLTrr" name="Página-7">
+    <mxGraphModel dx="1450" dy="625" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="bMVsMQICOQBC0_UN-Fk8-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="bMVsMQICOQBC0_UN-Fk8-1" target="bMVsMQICOQBC0_UN-Fk8-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bMVsMQICOQBC0_UN-Fk8-1" value="WebTeller" style="rounded=1;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="1" width="90" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="bMVsMQICOQBC0_UN-Fk8-2" value="Sentinel" style="rounded=1;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="120" y="1" width="90" height="119" as="geometry" />
+        </mxCell>
+        <mxCell id="bMVsMQICOQBC0_UN-Fk8-5" value="Servicio SOAP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="70" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
