@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-04T15:15:42.353Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="qKzvtQaAFTAKBdqNdc5w" version="21.1.1" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-04-04T15:17:56.504Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="FKtMUCFoOoB_9YZZzYU4" version="21.1.1" type="github" pages="7">
   <diagram name="Página-1" id="ur_Cc2yNUW0S00QuE0Pk">
     <mxGraphModel dx="1615" dy="1362" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -825,6 +825,13 @@
         <mxCell id="bMVsMQICOQBC0_UN-Fk8-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="bMVsMQICOQBC0_UN-Fk8-1" target="bMVsMQICOQBC0_UN-Fk8-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="bMVsMQICOQBC0_UN-Fk8-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="bMVsMQICOQBC0_UN-Fk8-1" target="bMVsMQICOQBC0_UN-Fk8-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-160" y="355" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="bMVsMQICOQBC0_UN-Fk8-1" value="WebTeller" style="rounded=1;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-200" y="1" width="90" height="120" as="geometry" />
         </mxCell>
@@ -833,6 +840,18 @@
         </mxCell>
         <mxCell id="bMVsMQICOQBC0_UN-Fk8-5" value="Servicio SOAP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-20" y="70" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bMVsMQICOQBC0_UN-Fk8-6" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="300" width="310" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="bMVsMQICOQBC0_UN-Fk8-7" value="" style="sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];verticalLabelPosition=bottom;align=center;verticalAlign=top;shape=mxgraph.kubernetes.icon;prIcon=api" vertex="1" parent="1">
+          <mxGeometry x="-15" y="340" width="50" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="bMVsMQICOQBC0_UN-Fk8-8" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/OpenShift.svg;" vertex="1" parent="1">
+          <mxGeometry x="-83.48" y="310" width="43.48" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bMVsMQICOQBC0_UN-Fk8-10" value="Microservicio en Spartan&amp;nbsp;&lt;br&gt;misma funcionalidad de sentinel&amp;nbsp;&lt;br&gt;Servicio Rest" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="220" width="200" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
