@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-04T22:40:34.536Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="Oh0-LJ91x8Wr0_ZFtqPz" version="21.1.1" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-04-04T22:42:09.237Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="L97bOt18X0Xb9TrPVmQz" version="21.1.1" type="github" pages="7">
   <diagram name="Página-1" id="ur_Cc2yNUW0S00QuE0Pk">
     <mxGraphModel dx="3393" dy="1451" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -326,6 +326,15 @@
         </mxCell>
         <mxCell id="NhqeChD_XDufD7Qu8ooM-44" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/home_page.svg;dashPattern=12 12;fillStyle=auto;gradientColor=none;" vertex="1" parent="NhqeChD_XDufD7Qu8ooM-28">
           <mxGeometry x="15" y="35" width="14.285274725274727" height="12.857142857142856" as="geometry" />
+        </mxCell>
+        <mxCell id="NhqeChD_XDufD7Qu8ooM-47" value="" style="shape=image;html=1;verticalAlign=bottom;verticalLabelPosition=top;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/seo-flat-6/128/22_Page_Quality-128.png;labelPosition=center;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-500" y="210" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NhqeChD_XDufD7Qu8ooM-48" value="" style="shape=image;html=1;verticalAlign=bottom;verticalLabelPosition=top;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/seo-flat-6/128/22_Page_Quality-128.png;labelPosition=center;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-490" y="220" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NhqeChD_XDufD7Qu8ooM-49" value="" style="shape=image;html=1;verticalAlign=bottom;verticalLabelPosition=top;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/seo-flat-6/128/22_Page_Quality-128.png;labelPosition=center;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-480" y="230" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
