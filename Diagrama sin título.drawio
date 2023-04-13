@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-13T14:26:13.586Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="b5pvZ3wvVkAqSIeZpkNs" version="21.1.5" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2023-04-13T14:34:35.499Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="cCoZrJ0Vskfaa8b9JdQ5" version="21.1.5" type="github" pages="9">
   <diagram name="Página-1" id="ur_Cc2yNUW0S00QuE0Pk">
     <mxGraphModel dx="1850" dy="1025" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1036,39 +1036,22 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="cOm_i2E3VqSNjdK6Af_J-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="wHQ8AGJobsBjDPNpFqno-3" target="cOm_i2E3VqSNjdK6Af_J-1">
+        <mxCell id="cOm_i2E3VqSNjdK6Af_J-2" value="Soap" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;fontSize=17;" edge="1" parent="1" source="wHQ8AGJobsBjDPNpFqno-3" target="cOm_i2E3VqSNjdK6Af_J-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wHQ8AGJobsBjDPNpFqno-3" value="DataPower" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="117" y="230" width="293" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wHQ8AGJobsBjDPNpFqno-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" parent="1" source="wHQ8AGJobsBjDPNpFqno-4" target="wHQ8AGJobsBjDPNpFqno-9" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="wHQ8AGJobsBjDPNpFqno-4" value="Sentinel" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="122" y="472" width="280" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="wHQ8AGJobsBjDPNpFqno-5" value="WebTeller" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="120" y="70" width="280" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wHQ8AGJobsBjDPNpFqno-9" value="Spartan" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="123" y="570" width="277" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="y-ZsR4fALpkBf4aMtg1Z-1" value="SOAP" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="440" y="520" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="cOm_i2E3VqSNjdK6Af_J-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="cOm_i2E3VqSNjdK6Af_J-1" target="wHQ8AGJobsBjDPNpFqno-4">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="263" y="440" />
-              <mxPoint x="260" y="440" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="cOm_i2E3VqSNjdK6Af_J-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="cOm_i2E3VqSNjdK6Af_J-1" target="cOm_i2E3VqSNjdK6Af_J-14">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cOm_i2E3VqSNjdK6Af_J-1" value="IBM Bus Integration&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="121" y="356" width="280" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cOm_i2E3VqSNjdK6Af_J-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="cOm_i2E3VqSNjdK6Af_J-4" target="wHQ8AGJobsBjDPNpFqno-3">
+        <mxCell id="cOm_i2E3VqSNjdK6Af_J-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;startArrow=classic;startFill=1;fontSize=15;" edge="1" parent="1" source="cOm_i2E3VqSNjdK6Af_J-4" target="wHQ8AGJobsBjDPNpFqno-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="575" y="240" />
@@ -1076,10 +1059,15 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="cOm_i2E3VqSNjdK6Af_J-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="cOm_i2E3VqSNjdK6Af_J-4" target="wHQ8AGJobsBjDPNpFqno-9">
+        <mxCell id="cOm_i2E3VqSNjdK6Af_J-17" value="Rest" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=20;" vertex="1" connectable="0" parent="cOm_i2E3VqSNjdK6Af_J-7">
+          <mxGeometry x="-0.1744" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cOm_i2E3VqSNjdK6Af_J-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="cOm_i2E3VqSNjdK6Af_J-4" target="cOm_i2E3VqSNjdK6Af_J-12">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="880" y="615" />
+              <mxPoint x="880" y="661" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1091,6 +1079,25 @@
         </mxCell>
         <mxCell id="cOm_i2E3VqSNjdK6Af_J-6" value="" style="sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];verticalLabelPosition=bottom;align=center;verticalAlign=top;shape=mxgraph.kubernetes.icon;prIcon=api" vertex="1" parent="1">
           <mxGeometry x="850" y="221" width="50" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="cOm_i2E3VqSNjdK6Af_J-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cOm_i2E3VqSNjdK6Af_J-11" target="cOm_i2E3VqSNjdK6Af_J-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cOm_i2E3VqSNjdK6Af_J-11" value="Sentinel" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/SQL_Server_Registries.svg;" vertex="1" parent="1">
+          <mxGeometry x="300" y="630" width="68" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="cOm_i2E3VqSNjdK6Af_J-12" value="Spartan&lt;br&gt;" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/SQL_Server_Registries.svg;" vertex="1" parent="1">
+          <mxGeometry x="490" y="630" width="68" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="cOm_i2E3VqSNjdK6Af_J-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cOm_i2E3VqSNjdK6Af_J-14" target="cOm_i2E3VqSNjdK6Af_J-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="263" y="670" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cOm_i2E3VqSNjdK6Af_J-14" value="Servicio Sentinel" style="html=1;whiteSpace=wrap;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;sketch=0;shape=mxgraph.sitemap.services;" vertex="1" parent="1">
+          <mxGeometry x="201.5" y="490" width="120" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
