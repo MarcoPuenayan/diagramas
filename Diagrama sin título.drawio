@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-13T14:35:14.719Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="uORASunbX7eixao_kNA5" version="21.1.5" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2023-04-13T14:40:28.197Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="CSgpEh4uFpMuoEYKXIQ4" version="21.1.5" type="github" pages="10">
   <diagram name="Página-1" id="ur_Cc2yNUW0S00QuE0Pk">
     <mxGraphModel dx="1850" dy="1025" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1098,6 +1098,29 @@
         </mxCell>
         <mxCell id="cOm_i2E3VqSNjdK6Af_J-14" value="Servicio Sentinel" style="html=1;whiteSpace=wrap;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;sketch=0;shape=mxgraph.sitemap.services;" vertex="1" parent="1">
           <mxGeometry x="201.5" y="490" width="120" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="wd4lqRjBPOEQaocxFlni" name="Página-10">
+    <mxGraphModel dx="1050" dy="625" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ao6__XZv_Svq3_Fgx6ox-1" value="Servicos de Omnicanal de eliminación de usuario" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="730" y="75" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aPQQKYwad1sJXYJ27V4P-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="40" y="65" width="360" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="aPQQKYwad1sJXYJ27V4P-2" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/OpenShift.svg;" vertex="1" parent="1">
+          <mxGeometry x="60" y="75" width="50" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="aPQQKYwad1sJXYJ27V4P-3" value="Centro autorizador" style="sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];verticalLabelPosition=bottom;align=center;verticalAlign=top;shape=mxgraph.kubernetes.icon;prIcon=api" vertex="1" parent="1">
+          <mxGeometry x="150" y="96" width="50" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="Ys7lzRb9Wrn4p3FOo-4g-1" value="Spartan&lt;br&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/seo-flat-6/128/22_Page_Quality-128.png" vertex="1" parent="1">
+          <mxGeometry x="130" y="340" width="128" height="128" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
