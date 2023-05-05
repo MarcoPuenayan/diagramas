@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-05T17:49:50.842Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="scP1B9ek5EgRichjmZXY" version="21.2.9" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2023-05-05T17:50:47.578Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="exWCg2Hb6io05O1VA0nB" version="21.2.9" type="github" pages="14">
   <diagram name="Página-1" id="ur_Cc2yNUW0S00QuE0Pk">
     <mxGraphModel dx="1850" dy="1025" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -1187,7 +1187,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="h5qx3Vzh6EIsAeQEPCqD" name="Página-12">
-    <mxGraphModel dx="1615" dy="2131" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1985" dy="2207" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1242,7 +1242,7 @@
         <mxCell id="1HCtEOM-9nxjP3wPqjEv-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="sCgC7lcLFltkNKm4nT_K-9" target="sCgC7lcLFltkNKm4nT_K-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="sCgC7lcLFltkNKm4nT_K-9" value="React" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="sCgC7lcLFltkNKm4nT_K-9" value="Proyecto&lt;br&gt;React" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="1080" y="265" width="190" height="270" as="geometry" />
         </mxCell>
         <mxCell id="sCgC7lcLFltkNKm4nT_K-10" value="Microservicios Spartan" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;labelPosition=center;verticalLabelPosition=top;align=left;verticalAlign=bottom;" parent="1" vertex="1">
