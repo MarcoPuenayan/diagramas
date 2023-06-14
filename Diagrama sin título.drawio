@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-14T15:24:59.765Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="S9SPEGyjTjWvDJHCiiHk" version="21.3.7" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2023-06-14T15:25:24.816Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="xiqohunXGRjB-zaaH2Ra" version="21.3.7" type="github" pages="10">
   <diagram name="Página-1" id="ur_Cc2yNUW0S00QuE0Pk">
     <mxGraphModel dx="1850" dy="1025" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -794,7 +794,7 @@
           <mxGeometry x="500" y="-360" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="R5PqBAfL2h4O2i_33RFt-2" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="240" y="180" width="40" height="40" as="geometry" />
+          <mxGeometry x="260" y="180" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="R5PqBAfL2h4O2i_33RFt-3" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="260" y="30" width="40" height="40" as="geometry" />
@@ -810,12 +810,6 @@
         </mxCell>
         <mxCell id="R5PqBAfL2h4O2i_33RFt-8" value="Antigua servicio creador por proveedor de sentinel&lt;br&gt;el cual se comunica con la base de datos spartan" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="220" y="480" width="300" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="R5PqBAfL2h4O2i_33RFt-9" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="707" y="-110" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="R5PqBAfL2h4O2i_33RFt-10" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="707" y="230" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
