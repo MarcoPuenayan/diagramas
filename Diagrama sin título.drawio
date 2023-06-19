@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-15T17:03:38.312Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="qojIabm-bVlmm3tumyDS" version="21.4.0" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2023-06-19T21:45:12.644Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="U2-mTfjJW4x-5JePOOgT" version="21.3.8" type="github" pages="11">
   <diagram name="Página-1" id="ur_Cc2yNUW0S00QuE0Pk">
-    <mxGraphModel dx="2154" dy="976" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3114" dy="1241" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -728,7 +728,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="rbhjY9tYuFNPzkHBof9y" name="Página-14">
-    <mxGraphModel dx="2138" dy="1847" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3141" dy="2010" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -791,7 +791,7 @@
           <mxGeometry x="487" y="260" width="21.74" height="20" as="geometry" />
         </mxCell>
         <mxCell id="HPXPFY71VbDfd_T5DnoU-15" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
-          <mxGeometry x="500" y="-360" width="60" height="80" as="geometry" />
+          <mxGeometry x="500" y="-310" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="R5PqBAfL2h4O2i_33RFt-2" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="260" y="180" width="40" height="40" as="geometry" />
@@ -800,22 +800,22 @@
           <mxGeometry x="260" y="30" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="R5PqBAfL2h4O2i_33RFt-4" value="Cambio por&amp;nbsp; microservicio de score centro autorizador, el cual se comunica con la base de datos spartan" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="220" y="420" width="300" height="60" as="geometry" />
+          <mxGeometry x="220" y="380" width="300" height="60" as="geometry" />
         </mxCell>
         <mxCell id="R5PqBAfL2h4O2i_33RFt-5" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="180" y="430" width="40" height="40" as="geometry" />
+          <mxGeometry x="180" y="390" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="R5PqBAfL2h4O2i_33RFt-7" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="180" y="490" width="40" height="40" as="geometry" />
+          <mxGeometry x="180" y="450" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="R5PqBAfL2h4O2i_33RFt-8" value="Antigua servicio creador por proveedor de sentinel&lt;br&gt;el cual se comunica con la base de datos spartan" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="220" y="480" width="300" height="60" as="geometry" />
+          <mxGeometry x="220" y="440" width="300" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="GWjoITeqcMAigdWkaYKi" name="Página-15">
-    <mxGraphModel dx="1114" dy="1745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2314" dy="2010" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -844,7 +844,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="L6Fpm27C1AV1QQTH5yqJ" name="Página-16">
-    <mxGraphModel dx="1754" dy="976" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2714" dy="1241" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
