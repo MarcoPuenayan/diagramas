@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-25T17:26:38.866Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="yPaUTr1MIEPInCl_Qg3Q" version="21.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-25T17:27:19.107Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="5wHEdKrl9WaUIOdF93bn" version="21.6.9" type="github">
   <diagram name="Página-1" id="4MTPa89ecPYX-DlPCeww">
     <mxGraphModel dx="1877" dy="1718" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10,7 +10,7 @@
         <mxCell id="bmwiJdFLaRqczscyPQs_-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="R6vhQf7PWrzbfx1SiQ1o-2" target="bmwiJdFLaRqczscyPQs_-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="R6vhQf7PWrzbfx1SiQ1o-2" value="IP, Provincia, Ciudad" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fillStyle=hatch;" parent="1" vertex="1">
+        <mxCell id="R6vhQf7PWrzbfx1SiQ1o-2" value="&lt;b&gt;Catálogo&lt;/b&gt;&lt;br&gt;IP, Provincia, Ciudad" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fillStyle=hatch;" parent="1" vertex="1">
           <mxGeometry x="160" y="-110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="R6vhQf7PWrzbfx1SiQ1o-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="R6vhQf7PWrzbfx1SiQ1o-6" target="R6vhQf7PWrzbfx1SiQ1o-1" edge="1">
