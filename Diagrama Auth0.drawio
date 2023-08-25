@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-25T17:23:34.903Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="Z_51e75xBZv1epBWiXWU" version="21.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-25T17:26:38.866Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="yPaUTr1MIEPInCl_Qg3Q" version="21.6.9" type="github">
   <diagram name="Página-1" id="4MTPa89ecPYX-DlPCeww">
     <mxGraphModel dx="1877" dy="1718" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -42,6 +42,15 @@
         </mxCell>
         <mxCell id="bmwiJdFLaRqczscyPQs_-12" value="" style="sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];verticalLabelPosition=bottom;align=center;verticalAlign=top;shape=mxgraph.kubernetes.icon;prIcon=api;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="310" y="90" width="50" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="bmwiJdFLaRqczscyPQs_-13" value="Primera Carga solicitar a la base de datos el catálogos de la tabla de ciudades, provincias&lt;br&gt;y cargar los datos en memoria cache" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="530" y="23" width="500" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bmwiJdFLaRqczscyPQs_-14" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="510" y="33" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bmwiJdFLaRqczscyPQs_-15" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="225" y="-10" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
