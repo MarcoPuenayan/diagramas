@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2023-08-30T15:24:48.055Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="XF-GESZBb6KQ-0VyxJGp" version="21.6.9" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-09-12T17:01:30.663Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="YJH7f8xJWOMbJk0buoUo" version="21.6.9" type="github" pages="3">
   <diagram name="Página-1" id="4MTPa89ecPYX-DlPCeww">
-    <mxGraphModel dx="1877" dy="1718" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1941" dy="1739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="R6vhQf7PWrzbfx1SiQ1o-1" value="Openshift 4" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fillStyle=hatch;labelPosition=left;verticalLabelPosition=top;align=right;verticalAlign=bottom;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="110" y="80" width="320" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="bmwiJdFLaRqczscyPQs_-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="R6vhQf7PWrzbfx1SiQ1o-2" target="bmwiJdFLaRqczscyPQs_-6">
+        <mxCell id="bmwiJdFLaRqczscyPQs_-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="R6vhQf7PWrzbfx1SiQ1o-2" target="bmwiJdFLaRqczscyPQs_-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="R6vhQf7PWrzbfx1SiQ1o-2" value="&lt;b&gt;Catálogo&lt;/b&gt;&lt;br&gt;IP, Provincia, Ciudad" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fillStyle=hatch;" parent="1" vertex="1">
@@ -19,37 +19,37 @@
         <mxCell id="R6vhQf7PWrzbfx1SiQ1o-6" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="-60" y="110" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bmwiJdFLaRqczscyPQs_-1" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/OpenShift.svg;" vertex="1" parent="1">
+        <mxCell id="bmwiJdFLaRqczscyPQs_-1" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/OpenShift.svg;" parent="1" vertex="1">
           <mxGeometry x="120" y="90" width="32.61" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bmwiJdFLaRqczscyPQs_-3" value="DB Spartan" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/SQL_Server.svg;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="bmwiJdFLaRqczscyPQs_-3" value="DB Spartan" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/SQL_Server.svg;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="171" y="310" width="68" height="68" as="geometry" />
         </mxCell>
-        <mxCell id="bmwiJdFLaRqczscyPQs_-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bmwiJdFLaRqczscyPQs_-4" target="bmwiJdFLaRqczscyPQs_-3">
+        <mxCell id="bmwiJdFLaRqczscyPQs_-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="bmwiJdFLaRqczscyPQs_-4" target="bmwiJdFLaRqczscyPQs_-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bmwiJdFLaRqczscyPQs_-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bmwiJdFLaRqczscyPQs_-4" target="bmwiJdFLaRqczscyPQs_-6">
+        <mxCell id="bmwiJdFLaRqczscyPQs_-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="bmwiJdFLaRqczscyPQs_-4" target="bmwiJdFLaRqczscyPQs_-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bmwiJdFLaRqczscyPQs_-4" value="Microservicio Auth0" style="sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];verticalLabelPosition=bottom;align=center;verticalAlign=top;shape=mxgraph.kubernetes.icon;prIcon=api;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="bmwiJdFLaRqczscyPQs_-4" value="Microservicio Auth0" style="sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];verticalLabelPosition=bottom;align=center;verticalAlign=top;shape=mxgraph.kubernetes.icon;prIcon=api;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="180" y="90" width="50" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="bmwiJdFLaRqczscyPQs_-6" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.memcached;fillColor=#2E73B8;gradientColor=none;" vertex="1" parent="1">
+        <mxCell id="bmwiJdFLaRqczscyPQs_-6" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.memcached;fillColor=#2E73B8;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="185" y="-10" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="bmwiJdFLaRqczscyPQs_-11" value="" style="sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];verticalLabelPosition=bottom;align=center;verticalAlign=top;shape=mxgraph.kubernetes.icon;prIcon=api;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="bmwiJdFLaRqczscyPQs_-11" value="" style="sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];verticalLabelPosition=bottom;align=center;verticalAlign=top;shape=mxgraph.kubernetes.icon;prIcon=api;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="260" y="90" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="bmwiJdFLaRqczscyPQs_-12" value="" style="sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];verticalLabelPosition=bottom;align=center;verticalAlign=top;shape=mxgraph.kubernetes.icon;prIcon=api;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="bmwiJdFLaRqczscyPQs_-12" value="" style="sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];verticalLabelPosition=bottom;align=center;verticalAlign=top;shape=mxgraph.kubernetes.icon;prIcon=api;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="310" y="90" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="bmwiJdFLaRqczscyPQs_-13" value="Primera Carga solicitar a la base de datos el catálogos de la&lt;br&gt;&amp;nbsp;tabla de ciudades, provincias&lt;br&gt;y cargar los datos en memoria cache" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="bmwiJdFLaRqczscyPQs_-13" value="Primera Carga solicitar a la base de datos el catálogos de la&lt;br&gt;&amp;nbsp;tabla de ciudades, provincias&lt;br&gt;y cargar los datos en memoria cache" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="540" y="13" width="340" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bmwiJdFLaRqczscyPQs_-14" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="bmwiJdFLaRqczscyPQs_-14" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="510" y="33" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="bmwiJdFLaRqczscyPQs_-15" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="bmwiJdFLaRqczscyPQs_-15" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="225" y="-10" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
@@ -85,16 +85,10 @@
     </mxGraphModel>
   </diagram>
   <diagram id="rH0YkzcbkT561s6brv_c" name="Página-3">
-    <mxGraphModel dx="1050" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1114" dy="570" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="l4NydXV_QQZuU-q7kPM9-1" value="React / Angular" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="290" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="l4NydXV_QQZuU-q7kPM9-2" value="iFrame" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="430" width="120" height="60" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
