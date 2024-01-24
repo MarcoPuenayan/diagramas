@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-24T15:47:29.648Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="oGneNEAmoj74UweoLDAl" version="23.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-24T15:47:58.502Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="ku54kQObLGLWvg-NDhho" version="23.0.1" type="github">
   <diagram name="Página-1" id="f4bqNxZ-yIZtXsm1hZRl">
     <mxGraphModel dx="3267" dy="2158" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -6,9 +6,6 @@
         <mxCell id="1" parent="0" />
         <mxCell id="tfvoOhLQ-1YyObvh46EX-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=hatch;" vertex="1" parent="1">
           <mxGeometry x="80" y="-80" width="813" height="490" as="geometry" />
-        </mxCell>
-        <mxCell id="tfvoOhLQ-1YyObvh46EX-9" value="AWS Cloud" style="sketch=0;outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_aws_cloud;strokeColor=#858B94;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#858B94;dashed=0;" vertex="1" parent="1">
-          <mxGeometry x="578" y="-10" width="202" height="130" as="geometry" />
         </mxCell>
         <mxCell id="tfvoOhLQ-1YyObvh46EX-7" value="On-Premise" style="sketch=0;outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_on_premise;strokeColor=#AAB7B8;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#AAB7B8;dashed=0;" vertex="1" parent="1">
           <mxGeometry x="584.5" y="199" width="195.5" height="171" as="geometry" />
@@ -37,9 +34,6 @@
         <mxCell id="tfvoOhLQ-1YyObvh46EX-1" value="microservicio catalogo ip" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;kubernetesLabel=1;prIcon=api;labelPosition=left;verticalLabelPosition=top;align=right;verticalAlign=bottom;" vertex="1" parent="1">
           <mxGeometry x="250" y="130" width="60" height="57.6" as="geometry" />
         </mxCell>
-        <mxCell id="tfvoOhLQ-1YyObvh46EX-2" value="Catalogo en Memoria" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" vertex="1" parent="1">
-          <mxGeometry x="630" y="34" width="50" height="42" as="geometry" />
-        </mxCell>
         <mxCell id="tfvoOhLQ-1YyObvh46EX-4" value="Base Spartan" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/SQL_Server.svg;" vertex="1" parent="1">
           <mxGeometry x="640" y="240" width="68" height="68" as="geometry" />
         </mxCell>
@@ -47,10 +41,19 @@
           <mxGeometry x="650" y="490" width="82.26" height="51" as="geometry" />
         </mxCell>
         <mxCell id="tfvoOhLQ-1YyObvh46EX-13" value="&lt;br&gt;Request&amp;nbsp;&lt;br&gt;&lt;br&gt;{&lt;br&gt;&amp;nbsp; IP:&quot; 192.168.0.0&quot;&lt;br&gt;}" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-25" y="-7" width="120" height="100" as="geometry" />
+          <mxGeometry x="-55" y="-10" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="tfvoOhLQ-1YyObvh46EX-14" value="&lt;br&gt;Response&amp;nbsp;&lt;br&gt;&lt;br&gt;{&lt;br&gt;&amp;nbsp; &amp;nbsp;Pais:&quot;&quot;,&lt;br&gt;&amp;nbsp; &amp;nbsp;Ciudad:&quot;&quot;,&lt;br&gt;&amp;nbsp; &amp;nbsp;Provincia.&quot;&quot;&lt;br&gt;}" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-40" y="240" width="90" height="130" as="geometry" />
+          <mxGeometry x="-50" y="240" width="90" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="tfvoOhLQ-1YyObvh46EX-15" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="584.5" width="202" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="tfvoOhLQ-1YyObvh46EX-9" value="AWS Cloud" style="sketch=0;outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_aws_cloud;strokeColor=#858B94;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#858B94;dashed=0;" vertex="1" parent="tfvoOhLQ-1YyObvh46EX-15">
+          <mxGeometry width="202" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="tfvoOhLQ-1YyObvh46EX-2" value="Catalogo en Memoria" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" vertex="1" parent="tfvoOhLQ-1YyObvh46EX-15">
+          <mxGeometry x="52" y="44" width="50" height="42" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
