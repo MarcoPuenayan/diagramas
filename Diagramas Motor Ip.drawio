@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-24T15:42:49.651Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="hwqx2h3sPJ2OranVDRkh" version="23.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-24T15:47:29.648Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="oGneNEAmoj74UweoLDAl" version="23.0.1" type="github">
   <diagram name="Página-1" id="f4bqNxZ-yIZtXsm1hZRl">
-    <mxGraphModel dx="1235" dy="1904" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3267" dy="2158" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -45,6 +45,12 @@
         </mxCell>
         <mxCell id="tfvoOhLQ-1YyObvh46EX-5" value="Proveedor Servicio&lt;br&gt;Catalogo IPs" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.internet_hollow" vertex="1" parent="1">
           <mxGeometry x="650" y="490" width="82.26" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="tfvoOhLQ-1YyObvh46EX-13" value="&lt;br&gt;Request&amp;nbsp;&lt;br&gt;&lt;br&gt;{&lt;br&gt;&amp;nbsp; IP:&quot; 192.168.0.0&quot;&lt;br&gt;}" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-25" y="-7" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="tfvoOhLQ-1YyObvh46EX-14" value="&lt;br&gt;Response&amp;nbsp;&lt;br&gt;&lt;br&gt;{&lt;br&gt;&amp;nbsp; &amp;nbsp;Pais:&quot;&quot;,&lt;br&gt;&amp;nbsp; &amp;nbsp;Ciudad:&quot;&quot;,&lt;br&gt;&amp;nbsp; &amp;nbsp;Provincia.&quot;&quot;&lt;br&gt;}" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="240" width="90" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
