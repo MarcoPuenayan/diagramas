@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-26T18:58:33.159Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="3uEImeaEP4qn6gsafEvM" version="23.1.7" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-02-26T19:14:24.271Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="NQk9MGoyaZp02B-RKFRY" version="23.1.7" type="github" pages="7">
   <diagram id="9q_fbMAlwhnnpu6DREGo" name="Guía de Componentes y Tipografia">
     <mxGraphModel dx="1290" dy="1230" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="670" pageHeight="700" math="0" shadow="0">
       <root>
@@ -664,7 +664,11 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Lxes6dWFwH_aR1WXEOcD-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iW4ywjNLq9YxUe-Lawjd-19" target="Lxes6dWFwH_aR1WXEOcD-2">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="659" y="589" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="iW4ywjNLq9YxUe-Lawjd-19" value="Cliente" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.user;fontFamily=Consolas;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DConsolas;" parent="1" vertex="1">
           <mxGeometry x="367" y="568" width="32" height="32" as="geometry" />
@@ -688,7 +692,7 @@
         <mxCell id="iW4ywjNLq9YxUe-Lawjd-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="iW4ywjNLq9YxUe-Lawjd-29" target="iW4ywjNLq9YxUe-Lawjd-52" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iW4ywjNLq9YxUe-Lawjd-29" value="Banca movil&lt;br&gt;&amp;lt;Angular, Net Core 4.0&amp;gt;&lt;br&gt;Endpoint: 10.101.5.12" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#FFFF99;shape=mxgraph.archimate3.application;appType=comp;archiType=square;fontFamily=Consolas;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DConsolas;strokeColor=#C7C777;" parent="1" vertex="1">
+        <mxCell id="iW4ywjNLq9YxUe-Lawjd-29" value="Banca Web&lt;br&gt;&amp;lt;Angular, Java&amp;gt;&lt;br&gt;Endpoint: 10.101.5.12" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#FFFF99;shape=mxgraph.archimate3.application;appType=comp;archiType=square;fontFamily=Consolas;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DConsolas;strokeColor=#C7C777;" parent="1" vertex="1">
           <mxGeometry x="278" y="821" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iW4ywjNLq9YxUe-Lawjd-30" value="&amp;lt;http 1.1&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;SOAP&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;TLS 1.3&amp;gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="iW4ywjNLq9YxUe-Lawjd-31" target="iW4ywjNLq9YxUe-Lawjd-35" edge="1">
@@ -870,7 +874,7 @@
         <mxCell id="Lxes6dWFwH_aR1WXEOcD-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Lxes6dWFwH_aR1WXEOcD-3" target="iW4ywjNLq9YxUe-Lawjd-19">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="831" y="592" />
+              <mxPoint x="831" y="574" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -890,16 +894,16 @@
         <mxCell id="Lxes6dWFwH_aR1WXEOcD-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="iW4ywjNLq9YxUe-Lawjd-19" target="iW4ywjNLq9YxUe-Lawjd-21">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="383" y="606" />
-              <mxPoint x="103" y="606" />
+              <mxPoint x="383" y="636" />
+              <mxPoint x="103" y="636" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Lxes6dWFwH_aR1WXEOcD-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="iW4ywjNLq9YxUe-Lawjd-19" target="Lxes6dWFwH_aR1WXEOcD-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="383" y="606" />
-              <mxPoint x="487" y="606" />
+              <mxPoint x="383" y="636" />
+              <mxPoint x="487" y="636" />
             </Array>
           </mxGeometry>
         </mxCell>
