@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-27T15:24:32.580Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="2_Q_2Vypbd3ENYTcG1r0" version="23.1.1" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-02-27T15:24:43.697Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="867bo78avVTj53hsXGfc" version="23.1.1" type="github" pages="7">
   <diagram id="9q_fbMAlwhnnpu6DREGo" name="Guía de Componentes y Tipografia">
     <mxGraphModel dx="1114" dy="1258" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="670" pageHeight="700" math="0" shadow="0">
       <root>
@@ -761,7 +761,8 @@
         <mxCell id="iW4ywjNLq9YxUe-Lawjd-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;dashed=1;" parent="1" source="iW4ywjNLq9YxUe-Lawjd-47" target="iW4ywjNLq9YxUe-Lawjd-31" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1298" y="1286" />
+              <mxPoint x="748" y="1004" />
+              <mxPoint x="748" y="1004" />
             </Array>
           </mxGeometry>
         </mxCell>
