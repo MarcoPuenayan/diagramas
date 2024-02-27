@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-27T20:11:37.751Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="zZhPCDonPKce-6Xn83yw" version="23.1.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-02-27T20:13:13.024Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="G6pLSql4V_3y4jk86iT4" version="23.1.1" type="github" pages="3">
   <diagram id="9q_fbMAlwhnnpu6DREGo" name="Guía de Componentes y Tipografia">
     <mxGraphModel dx="1326" dy="1292" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="670" pageHeight="700" math="0" shadow="0">
       <root>
@@ -577,7 +577,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Arq_Sol_Objetivo" id="-Vg_c7JVpFqqybnXHuzC">
-    <mxGraphModel dx="1696" dy="323" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="300" pageHeight="300" math="0" shadow="0">
+    <mxGraphModel dx="1958" dy="440" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="300" pageHeight="300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -694,6 +694,11 @@
               <mxPoint x="940" y="845" />
               <mxPoint x="940" y="1205" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k740u90MQO_QVeWFVe5n-6" value="&amp;lt;https&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ClPwLAFGCt9MLDyTrMYa-22">
+          <mxGeometry x="0.5415" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="iW4ywjNLq9YxUe-Lawjd-29" value="Banca Web&lt;br&gt;&amp;lt;Angular, Java&amp;gt;&lt;br&gt;Endpoint: 10.101.5.12" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#FFFF99;shape=mxgraph.archimate3.application;appType=comp;archiType=square;fontFamily=Consolas;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DConsolas;strokeColor=#C7C777;" parent="1" vertex="1">
@@ -939,10 +944,13 @@
         <mxCell id="k740u90MQO_QVeWFVe5n-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;jumpStyle=arc;" edge="1" parent="1" source="-0a48gGXDMhhFCgTcJoj-24" target="ClPwLAFGCt9MLDyTrMYa-15">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="743" y="1223" />
-              <mxPoint x="743" y="1239" />
               <mxPoint x="1298" y="1239" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k740u90MQO_QVeWFVe5n-5" value="&amp;lt;https&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="k740u90MQO_QVeWFVe5n-3">
+          <mxGeometry x="0.1014" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-0a48gGXDMhhFCgTcJoj-24" value="valid-client&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&amp;lt;Validar si es cliente de banco&amp;gt;&lt;br&gt;&amp;lt;Java SE 17, Springboot, AKS&amp;gt;&lt;br&gt;&lt;/font&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99FF99;shape=mxgraph.archimate3.application;appType=comp;archiType=square;fontFamily=Consolas;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DConsolas;strokeColor=#000000;" vertex="1" parent="1">
@@ -960,6 +968,11 @@
               <mxPoint x="252" y="1137" />
               <mxPoint x="252" y="1228" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k740u90MQO_QVeWFVe5n-4" value="&amp;lt;https&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ClPwLAFGCt9MLDyTrMYa-21">
+          <mxGeometry x="0.1427" y="4" relative="1" as="geometry">
+            <mxPoint x="-33" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-0a48gGXDMhhFCgTcJoj-36" value="update-data-transaction-client&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&amp;lt;Consultar y actualiza los datos transaccionales del cliente.&amp;gt;&lt;br&gt;&amp;lt;Java SE 17, Springboot, AKS&amp;gt;&lt;br&gt;&lt;/font&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99FF99;shape=mxgraph.archimate3.application;appType=comp;archiType=square;fontFamily=Consolas;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DConsolas;strokeColor=#000000;" vertex="1" parent="1">
