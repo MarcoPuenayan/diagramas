@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-27T17:49:35.052Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="gUxCUaikZSLQePtNx5Xt" version="23.1.1" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-02-27T19:40:58.224Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="JyHbL1GtM7BgQTbtFy_4" version="23.1.1" type="github" pages="7">
   <diagram id="9q_fbMAlwhnnpu6DREGo" name="Guía de Componentes y Tipografia">
     <mxGraphModel dx="1326" dy="1292" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="670" pageHeight="700" math="0" shadow="0">
       <root>
@@ -722,18 +722,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="-0a48gGXDMhhFCgTcJoj-4" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-264" y="1551" width="1189" height="121" as="geometry" />
-        </mxCell>
-        <mxCell id="iW4ywjNLq9YxUe-Lawjd-9" value="" style="rounded=0;whiteSpace=wrap;html=1;flipH=0;" parent="-0a48gGXDMhhFCgTcJoj-4" vertex="1">
-          <mxGeometry width="1189" height="121" as="geometry" />
-        </mxCell>
-        <mxCell id="iW4ywjNLq9YxUe-Lawjd-10" value="Cores Banco" style="text;html=1;strokeColor=none;fillColor=#e1d5e7;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;flipH=0;spacingLeft=5;" parent="-0a48gGXDMhhFCgTcJoj-4" vertex="1">
-          <mxGeometry x="4.387453874538745" y="4" width="108.58948339483395" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="iW4ywjNLq9YxUe-Lawjd-35" value="Bancs&lt;br&gt;&amp;lt;Cobol CICS + Oracle 12&amp;gt;&lt;br&gt;IP: 10.0.21.2" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#FFFF99;shape=mxgraph.archimate3.application;appType=comp;archiType=square;fontFamily=Consolas;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DConsolas;strokeColor=#C7C777;" parent="-0a48gGXDMhhFCgTcJoj-4" vertex="1">
-          <mxGeometry x="559.40036900369" y="40" width="197.43542435424354" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="iW4ywjNLq9YxUe-Lawjd-7" value="" style="rounded=0;whiteSpace=wrap;html=1;flipH=0;strokeColor=#050505;" parent="1" vertex="1">
           <mxGeometry x="-256" y="954" width="1189" height="388" as="geometry" />
         </mxCell>
@@ -1023,7 +1011,11 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-0a48gGXDMhhFCgTcJoj-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iW4ywjNLq9YxUe-Lawjd-52" target="-0a48gGXDMhhFCgTcJoj-33">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-150" y="1004" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="-0a48gGXDMhhFCgTcJoj-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="iW4ywjNLq9YxUe-Lawjd-52" target="-0a48gGXDMhhFCgTcJoj-39">
           <mxGeometry relative="1" as="geometry">
@@ -1053,6 +1045,9 @@
             <mxPoint x="654" y="1560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="ClPwLAFGCt9MLDyTrMYa-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="-0a48gGXDMhhFCgTcJoj-24" target="sC4P4L01jily7y9ABVmW-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="-0a48gGXDMhhFCgTcJoj-28" value="WSsSguridad0064&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&amp;lt;Validar la clave digital&amp;gt;&lt;/font&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99FFFF;shape=mxgraph.archimate3.application;appType=comp;archiType=square;fontFamily=Consolas;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DConsolas;strokeColor=#6C8EBF;" vertex="1" parent="1">
           <mxGeometry x="709" y="1089.8000000000002" width="199" height="64.2" as="geometry" />
         </mxCell>
@@ -1060,7 +1055,7 @@
           <mxGeometry x="3" y="1185" width="199" height="64.2" as="geometry" />
         </mxCell>
         <mxCell id="-0a48gGXDMhhFCgTcJoj-33" value="Facephi&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&amp;lt;Validación facial entre dos rostros&amp;gt;&lt;/font&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99FFFF;shape=mxgraph.archimate3.application;appType=comp;archiType=square;fontFamily=Consolas;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DConsolas;strokeColor=#6C8EBF;" vertex="1" parent="1">
-          <mxGeometry x="-238" y="1085" width="176" height="64.2" as="geometry" />
+          <mxGeometry x="-238" y="1085" width="156" height="64.2" as="geometry" />
         </mxCell>
         <mxCell id="-0a48gGXDMhhFCgTcJoj-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="-0a48gGXDMhhFCgTcJoj-33" target="-0a48gGXDMhhFCgTcJoj-8">
           <mxGeometry relative="1" as="geometry" />
@@ -1077,19 +1072,19 @@
         <mxCell id="-0a48gGXDMhhFCgTcJoj-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;jumpStyle=arc;" edge="1" parent="1" source="iW4ywjNLq9YxUe-Lawjd-52" target="-0a48gGXDMhhFCgTcJoj-42">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="64" y="1061" />
-              <mxPoint x="536" y="1061" />
+              <mxPoint x="80" y="1061" />
+              <mxPoint x="535" y="1061" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="sC4P4L01jily7y9ABVmW-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;jumpStyle=arc;" edge="1" parent="1" source="-0a48gGXDMhhFCgTcJoj-36" target="iW4ywjNLq9YxUe-Lawjd-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="sC4P4L01jily7y9ABVmW-3" value="" style="group;container=0;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-259" y="1389" width="1189" height="121" as="geometry" />
-        </mxCell>
         <mxCell id="sC4P4L01jily7y9ABVmW-4" value="" style="rounded=0;whiteSpace=wrap;html=1;flipH=0;" vertex="1" parent="1">
           <mxGeometry x="-261" y="1389" width="1189" height="121" as="geometry" />
+        </mxCell>
+        <mxCell id="sC4P4L01jily7y9ABVmW-3" value="" style="group;container=0;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-259" y="1389" width="1189" height="121" as="geometry" />
         </mxCell>
         <mxCell id="sC4P4L01jily7y9ABVmW-5" value="Datos en Cloud" style="text;html=1;strokeColor=none;fillColor=#e1d5e7;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;flipH=0;spacingLeft=5;" vertex="1" parent="1">
           <mxGeometry x="-254.61254612546125" y="1393" width="108.58948339483395" height="30" as="geometry" />
@@ -1104,8 +1099,42 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="ClPwLAFGCt9MLDyTrMYa-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="-0a48gGXDMhhFCgTcJoj-12" target="sC4P4L01jily7y9ABVmW-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="-0a48gGXDMhhFCgTcJoj-12" value="Notify-push-email&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&amp;lt;Notificaciones Push/Correo&amp;gt;&lt;/font&gt;" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#99FF99;shape=mxgraph.archimate3.application;appType=comp;archiType=square;fontFamily=Consolas;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DConsolas;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry y="1263" width="199" height="64.2" as="geometry" />
+        </mxCell>
+        <mxCell id="ClPwLAFGCt9MLDyTrMYa-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="iW4ywjNLq9YxUe-Lawjd-52" target="-0a48gGXDMhhFCgTcJoj-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-48" y="1035" />
+              <mxPoint x="-48" y="1217" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ClPwLAFGCt9MLDyTrMYa-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="iW4ywjNLq9YxUe-Lawjd-52" target="-0a48gGXDMhhFCgTcJoj-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-58" y="1017" />
+              <mxPoint x="-58" y="1295" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ClPwLAFGCt9MLDyTrMYa-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="sC4P4L01jily7y9ABVmW-6" target="sC4P4L01jily7y9ABVmW-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-0a48gGXDMhhFCgTcJoj-4" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-264" y="1551" width="1189" height="121" as="geometry" />
+        </mxCell>
+        <mxCell id="iW4ywjNLq9YxUe-Lawjd-9" value="" style="rounded=0;whiteSpace=wrap;html=1;flipH=0;" parent="-0a48gGXDMhhFCgTcJoj-4" vertex="1">
+          <mxGeometry width="1189" height="121" as="geometry" />
+        </mxCell>
+        <mxCell id="iW4ywjNLq9YxUe-Lawjd-10" value="Cores Banco" style="text;html=1;strokeColor=none;fillColor=#e1d5e7;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;flipH=0;spacingLeft=5;" parent="-0a48gGXDMhhFCgTcJoj-4" vertex="1">
+          <mxGeometry x="4.387453874538745" y="4" width="108.58948339483395" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iW4ywjNLq9YxUe-Lawjd-35" value="Bancs&lt;br&gt;&amp;lt;Cobol CICS + Oracle 12&amp;gt;&lt;br&gt;IP: 10.0.21.2" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#FFFF99;shape=mxgraph.archimate3.application;appType=comp;archiType=square;fontFamily=Consolas;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DConsolas;strokeColor=#C7C777;" parent="-0a48gGXDMhhFCgTcJoj-4" vertex="1">
+          <mxGeometry x="559.40036900369" y="40" width="197.43542435424354" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
